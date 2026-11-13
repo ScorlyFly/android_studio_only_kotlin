@@ -1,5 +1,5 @@
 ## 📅 Project Timeline
-new fuature avery day 
+new fuature avery day.
 
 | Event | Date |
 |:---|:---|
